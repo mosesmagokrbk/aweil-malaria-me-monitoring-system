@@ -452,6 +452,23 @@ Project journal
 ![Complete M&E/Data Skill Set](docs/assets/project_visual_3.png)
 
 ---
+## DQA_quality_flow_evidence_diagram
+<img width="1536" height="1024" alt="data_quality_workflow" src="https://github.com/user-attachments/assets/d5529d9f-7f8e-4f0a-af4d-889c24ec51bb" />
+---
+## DQA_validation_results
+
+<img width="1039" height="643" alt="dqa_validation_results" src="https://github.com/user-attachments/assets/e512986a-6386-4141-9833-9fc07e6a0b89" />
+---
+## duplicates
+<img width="664" height="114" alt="duplicates" src="https://github.com/user-attachments/assets/924f6950-d18e-43ce-8158-32db0ee1590c" />
+---
+## M&E DQA summary
+<img width="1039" height="643" alt="M E_DQA_Summary" src="https://github.com/user-attachments/assets/5ec8ab34-430a-40be-9347-37cf609f1fcb" />
+---
+
+
+
+
 
 ## Current Project Status
 
